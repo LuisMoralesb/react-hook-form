@@ -1,0 +1,32 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(35, 50, 61);
+  min-height: 100vh;
+}
+
+label {
+  display: block;
+  color: white;
+}
+
+input,select {
+  width: 100%;
+}
+
+button {
+  background-color: rgb(57, 57, 131);
+  color: white;
+  border: 2px;
+}
+
+span {
+  display: block;
+  color: red;
+  font-size: small;
+}
+
+pre {
+  color: white;
+}
